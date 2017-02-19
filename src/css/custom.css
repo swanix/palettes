@@ -1,0 +1,57 @@
+/* Custom styles */
+
+.size-auto { height: auto}
+
+.layout-header { padding: 1rem 0 0 2rem;}
+.layout-main { padding-top: 8rem;}
+
+.palette {
+  padding: 5rem;
+}
+
+.color {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  font-size: 1.2rem;
+  color: white;
+  padding-top: 5.5rem;
+  float: left;
+  margin: 2rem 2rem;
+  text-align: center;
+}
+
+.dark-text {
+  color: black;
+}
+
+.white { background: ;}
+.black { background: ;}
+
+
+/* Palette 1 */
+
+.p1-primary {
+  background: #4D62A4; }
+.p1-secondary {
+  background: #87A2BD; }
+.p1-tertiary {
+  background: #4A5374; }
+.p1-quaternary {
+  background: #9AA4BF; }
+.p1-accent {
+  background: #04C29C; }
+
+/* Palette 2 */
+
+.p2-primary {
+  background: #38445C; }
+.p2-secondary {
+  background: #87A2BD; }
+.p2-tertiary {
+  background: #F4E0C8; }
+.p2-quaternary {
+  background: #BE9C83; }
+.p2-accent {
+  background: #D47E5D; }
+}
