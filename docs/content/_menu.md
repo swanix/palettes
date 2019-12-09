@@ -1,4 +1,4 @@
- * Overview
+* Overview
   * [Library](/)
   * [Palette 1](palette1.md)
   * [Palette 2](palette2.md)
